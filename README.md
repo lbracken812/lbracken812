@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hey there, I'm <a href="https://www.korral.me/" target="_blank">korral</a></h1>
 
 <p align="center">
-    <a href="https://rxs.to/youtube"><img height="32" width="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg" /></a /></a>
-    <a href="https://rxs.to/patreon"><img height="32" width="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/patreon.svg" /></a>
+    <a href="https://www.korral.me/youtube"><img height="32" width="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg" /></a /></a>
+    <a href="https://www.korral.me/patreon"><img height="32" width="32" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/patreon.svg" /></a>
 </p>
 
 <p align="center">
