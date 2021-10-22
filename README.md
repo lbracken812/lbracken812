@@ -47,7 +47,7 @@ I am able to plan, develop and maintain a full application stack by using the fo
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/windows.svg" />
 </p>
 
-I am a huge fan of [Open-source](https://en.wikipedia.org/wiki/Open-source_software). Every day, the wold becomes closed source. That means, you can not tell what you are installing into your computer, and you can not take and edit small peices of it.
+I am a huge fan of [Open-source](https://en.wikipedia.org/wiki/Open-source_software). Every day, the world becomes more, and more closed source. That means, you can not tell what you are installing into your computer, and you can not take and edit small peices of it.
 
 If you have any questions regarding my projects or technologies I use feel free to [get in touch](#contact).
 
