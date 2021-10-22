@@ -29,7 +29,7 @@ Some of the projects I'm working on might not be listed here yet, but again, I a
 
 ### My skills
 
-I am able to plan, develop and maintain a full application stack by using the following (and more) technologies:
+I am able to **try** to plan, develop and maintain a full application stack by using the following (and more) technologies:
 
 <p align="left">
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg" />
