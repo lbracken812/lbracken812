@@ -30,22 +30,7 @@ Some of the projects I'm working on might not be listed here yet, but again, I a
 
 ### My skills
 
-I am able to **try** to plan, develop and maintain a full application stack by using the following (and more) technologies:
-
-<p align="left">
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/css3.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/vue.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/npm.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/kotlin.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/digitalocean.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/cloudflare.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/stackoverflow.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/arch_linux.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/ubuntu.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/windows.svg" />
+I can write code in sevreal langauges. Although I am not prefect, I am trying to get better!
 </p>
 
 I am a huge fan of [Open-source](https://en.wikipedia.org/wiki/Open-source_software). Every day, the world becomes more, and more closed source. That means, you can not tell what you are installing into your computer, and you can not take and edit small peices of it.
