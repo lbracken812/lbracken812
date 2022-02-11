@@ -25,7 +25,7 @@ Some of the projects I'm working on might not be listed here yet, but again, I a
 
 - [Coast](https://www.costbot.xyz/), Protect and engage your Discord community!
 - [Silt](https://silt.one/), Revolutionizing music, one song at a time.
-- [Cyber Weekly](https://korral.blog), My Blog!
+- [Korral's Mind](https://korral.blog), My Blog!
 - _more to come soon..._
 
 ### My skills
