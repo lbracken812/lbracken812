@@ -47,7 +47,7 @@ I want this world to become a better place for everyone, for current and future 
 
 #### Thanks!
 
-So to finish this up, thank you so much for reading my little essay here! I greatly appreciate interested minds and curious souls! I hope you have an amazing day, see you around!
+So to finish this up, thank you so much for reading my little About Me here! I hope you have a great day!
 
 🎉
 
