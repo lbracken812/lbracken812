@@ -23,9 +23,9 @@ If you want to find out more about me or my projects you should have a look at [
 
 Some of the projects I'm working on might not be listed here yet, but again, I am trying my hardest to keep my work open-sourced.
 
-- [Poxx](https://www.poxx.me/), Protect and engage your Discord community!
-- [???](https://bwp.netlify.app/), soon to be... Apps maybe?
-- [Cyber Weekly](https://brackenfamilymn.wixsite.com/cyber), The best Cyber Security newsletter.
+- [Coast](https://www.costbot.xyz/), Protect and engage your Discord community!
+- [Silt](https://silt.one/), Revolutionizing music, one song at a time.
+- [Cyber Weekly](https://korral.blog), My Blog!
 - _more to come soon..._
 
 ### My skills
