@@ -6,12 +6,11 @@
 </p>
 
 <p align="center">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=lbracken812">
     <img src="https://api.netlify.com/api/v1/badges/d26f6a33-51b3-4a5f-ac08-5b7d7a183e9d/deploy-status">
 </p>
 
 Hey there, nice to meet you! My name is **Korral**, but you might also know me as **lbracken812** or **Logan**!<br>
-I'm a **14 year old student interested in technology** working on various fun projects!<br>
+I'm a **15 year old student interested in technology** working on various fun projects!<br>
 A lot of my contributions are private, but I still try to focus on keeping this world **open source**!
 
 #### Contact
