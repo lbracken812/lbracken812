@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-    <img src="https://visitor-badge.glitch.me/badge?page_id=lbracken812.lbracken812">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=lbracken812">
     <img src="https://api.netlify.com/api/v1/badges/d26f6a33-51b3-4a5f-ac08-5b7d7a183e9d/deploy-status">
 </p>
 
